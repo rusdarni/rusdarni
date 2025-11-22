@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Codwears badge](https://www.codewars.com/users/rusdarni/badges/small)](https://www.codewars.com/users/rusdarni)
 <!--
 **rusdarni/rusdarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
